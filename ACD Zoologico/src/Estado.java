@@ -1,0 +1,3 @@
+public enum Estado {
+    OCUPADA, MANTENIMIENTO, RESERVADA, DESOCUPADA, BUENO;
+}
