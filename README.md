@@ -17,7 +17,9 @@ Además, el sistema debe permitir la gestión de horarios de alimentación y lim
 - **Viviana Córdova**
 
 # Diagrama de Clases 
-![Imagen de WhatsApp 2024-11-28 a las 19 37 46_dc000b77](https://github.com/user-attachments/assets/2b2c3116-aeb7-4139-8214-3d5812b42d90)
+
+![Universidad](https://github.com/user-attachments/assets/6a1678ad-4124-40e1-9276-71b5512d3bba)
+
 
 ## Código
 
