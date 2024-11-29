@@ -42,8 +42,8 @@ Además, el sistema debe permitir la gestión de horarios de alimentación y lim
 - **16. []()**
 - **17. []()**
 - **18. []()**
-- **19. []()**
-- **20. []()**
+- **19. [TipoAlimentacion](Codigo/TipoAlimentacion.java)**: Enumerador que permite clasificar a los animales según su tipo de alimentación.
+- **20. [TipoDeColumnaVertebral](Codigo/TipoDeColumnaVertebral.java)**: Se trata de un enumerador que permite clasificar a los animales de acuerdo a su columna vertebral.
 - **21. [Veterinario](Codigo/Veterinario.java)**: Esta clase permite diferenciar al personal veterinario de acuerdo al animal que tenga a cargo  y a su especialidad. Esta clase tiene un método llamado cuidar animal.
 - **22. [Zona](Codigo/Zona.java)**: Se refiere a la distribución que tendrá el zooloógico en donde cada sección recibe el nombre de zona.
 - **23. [Zoologico](Codigo/Zoologico.java)**: Hace referencia a la existencia del zoológico y contiene atributos como nombre, dirección y el horario de atención.
