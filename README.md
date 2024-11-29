@@ -24,17 +24,17 @@ Además, el sistema debe permitir la gestión de horarios de alimentación y lim
 ## Código
 
 ## Estructura
-- **1. []()**
-- **2. []()**
-- **3. []()**
-- **4. []()**
-- **5. []()**
-- **6. []()**
-- **7. []()**
-- **8. []()**
-- **9. []()**
-- **10. []()**
-- **11. []()**
+- **1. [Alimentacion](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Alimentacion.java)**
+- **2. [Animal](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Animal.java)**
+- **3. [Boleto](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Boleto.java)**
+- **4. [Cliente](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Cliente.java)**
+- **5. [Conserje](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Conserje.java)**
+- **6. [Contrato](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Contrato.java)**
+- **7. [Cuidador](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Cuidador.java)**
+- **8. [Diagnostico](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Diagnostico.java)**
+- **9. [Empoleador](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Empleado.java)**
+- **10. [Estado](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Estado.java)**
+- **11. [Exhibicion](https://github.com/Dougdree/Zoologico/blob/main/ACD%20Zoologico/src/Exhibicion.java)**
 - **12. [Habitat](https://github.com/Dougdree/Zoologico/blob/develop/ACD%20Zoologico/src/Habitat.java)**: Hace referencia al tipo de entorno en donde se desarrolla la vida de un animal. 
 - **13. [HistorialSalud](https://github.com/Dougdree/Zoologico/blob/develop/ACD%20Zoologico/src/HistorialSalud.java)**: Esta clase recopila todos los disgnósticos de los animales a lo largo del tiempo y de esa forma conseguir mejores tratamientos medicos.
 - **14. [Jaula](https://github.com/Dougdree/Zoologico/blob/develop/ACD%20Zoologico/src/Jaula.java)**: Hace referencia al espacio físico en donde viven e interactuan los animales.
