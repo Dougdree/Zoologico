@@ -1,5 +1,5 @@
-# Zoologico
-ACD - Zoologico
+# Zoológico
+ACD - Zoológico
 
 ## Detalle
 Se necesita un sistema que permita:
