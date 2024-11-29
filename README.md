@@ -23,6 +23,30 @@ Además, el sistema debe permitir la gestión de horarios de alimentación y lim
 
 ## Código
 
+## Estructura
+- **1. []()**
+- **2. []()**
+- **3. []()**
+- **4. []()**
+- **5. []()**
+- **6. []()**
+- **7. []()**
+- **8. []()**
+- **9. []()**
+- **10. []()**
+- **11. []()**
+- **12. []()**
+- **13. []()**
+- **14. []()**
+- **15. []()**
+- **16. []()**
+- **17. []()**
+- **18. []()**
+- **19. []()**
+- **20. []()**
+- **21. [Veterinario](Codigo/Veterinario.java)**: Esta clase permite diferenciar al personal veterinario de acuerdo al animal que tenga a cargo  y a su especialidad. Esta clase tiene un método llamado cuidar animal.
+- **22. [Zona](Codigo/Zona.java)**: Se refiere a la distribución que tendrá el zooloógico en donde cada sección recibe el nombre de zona.
+- **23. [Zoologico](Codigo/Zoologico.java)**: Hace referencia a la existencia del zoológico y contiene atributos como nombre, dirección y el horario de atención.
 
 
 
